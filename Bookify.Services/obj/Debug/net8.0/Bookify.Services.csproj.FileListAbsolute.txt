@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\bin\Debug\net8.0\Bookify.Services.deps.json
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\bin\Debug\net8.0\Bookify.Services.dll
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\bin\Debug\net8.0\Bookify.Services.pdb
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\bin\Debug\net8.0\Bookify.Data.dll
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\bin\Debug\net8.0\Bookify.Data.pdb
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\Bookify.Services.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\Bookify.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\Bookify.Services.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\Bookify.Services.AssemblyInfo.cs
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\Bookify.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\Bookify.Services.sourcelink.json
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\Bookify..0B5DB242.Up2Date
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\Bookify.Services.dll
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\refint\Bookify.Services.dll
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\Bookify.Services.pdb
+C:\Users\user\source\repos\-Bookify-Hotel-Reservation\Bookify.Web\Bookify.Services\obj\Debug\net8.0\ref\Bookify.Services.dll
